@@ -1,5 +1,5 @@
-#robo2022
-#plusコマンド
+# robo2022
+# plusコマンド
 ![test](https://github.com/Aya0801/robo2022/actions/workflows/test.yml/badge.svg)
 
 
@@ -20,7 +20,7 @@
 
 
 =======
-# robosys2022
+# robo2022
 * このソフトウェアパッケージは，3条項BSDライセンスの下，再頒布および使用が許可されます．
   * © 2022 Atsuya Sawayama
->>>>>>> b3ec6ecbe0b54f0eb112596dd282911ee14334da
+>
