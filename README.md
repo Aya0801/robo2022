@@ -1,5 +1,5 @@
 #plusコマンド
-![test](https://github.com/Aya0801/robo2022/actions/workflows/test.yml/badge.svg)
+[![test](https://github.com/Aya0801/robo2022/actions/workflows/test.yml/badge.svg)](https://github.com/Aya0801/robo2022/actions/workflows/test.yml)
 
 標準入力から読み込みその数字を足す。
 
