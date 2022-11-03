@@ -22,6 +22,6 @@
   [ "$?" = 1 ]      || ng ${LINEON}
   [ "${out}" = "" ] || ng ${LINEON}
 
-[ "${res}" = 0 ] && echo OK
+  [ "${res}" = 1 ] && echo OK
   exit $res
 
