@@ -23,5 +23,5 @@
   [ "${out}" = "" ] || ng "${LINENO}"
 
   [ "${res}" = 0 ] && echo OK
-  exit $res# SPDX-...
+  exit $res
     
