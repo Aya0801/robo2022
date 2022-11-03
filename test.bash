@@ -1,10 +1,10 @@
 #!/bin/bash -xv
 # SPDX-FileCopyrightText: 2022 Atsuya Sawayama
 # SPDX-License-Identifier: BSD-3-Clause
-ng () {
-		echo ${1}行目が違うよ
-			res=1
-		}
+ng (  ) {
+	echo ${1}行目が違うよ
+	res=1
+	}
 
 	res=0
 
