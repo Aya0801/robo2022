@@ -4,11 +4,11 @@
 ![test](https://github.com/Aya0801/robo2022/actions/workflows/test.yml/badge.svg)
 #　機能
 
-* 標準入力から読み込みその数字を足す。
-* 足した答えが偶数か奇数か判定する。
+標準入力から読み込みその数字を足す。
+足した答えが偶数か奇数か判定する。
 
 ##　動作例
-```
+
 
 ## 必要なソフトウエア
 * Python
