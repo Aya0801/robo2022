@@ -34,8 +34,3 @@ seq 7 | ./plus
 
 @ 2022 Atsuya Sawayama
 
-<<<<<<< HEAD
-
->
-=======
->>>>>>> 10fefe09643cd3b7be80a13aecd965dd829b9bfd
