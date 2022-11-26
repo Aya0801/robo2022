@@ -18,13 +18,17 @@ git clone git@github.com:Aya0801/robosys2022.git
 # 動作例
 ```
 seq 6 | ./plus
+```
+```
 21.0
 21.0 Odd numberes
-
+```
+```
 seq 7 | ./plus
+```
+```
 28.0
 28.0 Even numberes
-
 ```
 ## 必要なソフトウエア
 * Python
