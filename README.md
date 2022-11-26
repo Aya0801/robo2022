@@ -1,24 +1,16 @@
 # robosys2022
 ロボットシステム学練習用リポジトリ
-
-# plusコマンド
-![test](https://github.com/Aya0801/robo2022/actions/workflows/test.yml/badge.svg)
-
 # 機能
 * 標準入力から読み込んだ数字を足す
 * 足した数を奇数か偶数か判定する
 
-# 実行方法
-```
-seq ［足したい数］｜　./plus
-```
-標準入力に使うseqは１から指定した数まで１ずつ加算されていくまた、seqの性質上標準入力する数字は1以上である。
-また、小数点以下は切り捨てされる。
+# plusコマンド
+![test](https://github.com/Aya0801/robo2022/actions/workflows/test.yml/badge.svg)
+
 # ダウンロード方法
 ```
 git clone git@github.com:Aya0801/robosys2022.git
 ```
-
 # 動作例1
 入力
 ```
@@ -39,6 +31,13 @@ seq 7 | ./plus
 28.0
 28.0 Even numberes
 ```
+# 実行方法
+```
+seq ［足したい数］｜　./plus
+```
+標準入力に使うseqは１から指定した数まで１ずつ加算されていくまた、seqの性質上標準入力する数字は1以上である。
+また、小数点以下は切り捨てされる。
+
 ## 必要なソフトウエア
 * Python
   * テスト済み: 3.7～3.10
