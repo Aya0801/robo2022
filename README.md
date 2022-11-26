@@ -4,7 +4,7 @@
 * 標準入力から読み込んだ数字を足す
 * 足した数を奇数か偶数か判定する
 
-# plusコマンド
+# plusコマンドのテスト
 ![test](https://github.com/Aya0801/robo2022/actions/workflows/test.yml/badge.svg)
 
 # ダウンロード方法
