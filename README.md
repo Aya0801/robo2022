@@ -49,4 +49,4 @@ seq ［足したい数］｜　./plus
 * Ubuntu 20.04.5LTS
 # 権利関係
 * このソフトウェアパッケージは，3条項BSDライセンスの下，再頒布および使用が許可されます．
-  * © 2022 Atsuya Sawayama
+* © 2022 Atsuya Sawayama
