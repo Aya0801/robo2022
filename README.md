@@ -11,13 +11,12 @@
 ターミナルに入力
 ```
 $ git clone git@github.com:Aya0801/robosys2022.git
+$ cd robosys2022
+$ chmod +x plus
+
 ```
 # 動作例1
 入力
-
-```
-$ seq 6 | ./plus
-```
 
 ```
 $ seq 6 | ./plus
