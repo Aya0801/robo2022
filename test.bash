@@ -11,7 +11,7 @@ res=0
 
 ### I/O TEST ###
 out=$(seq 5 | ./plus)
-[ "${out}" = 15.0 15.0 Odd number ] || ng "${LINENO}"
+[ "${out}" =  15.0 Odd number ] || ng "${LINENO}"
 
 ### STRANGE INPUT ###
 out=$(echo あ | ./plus)
