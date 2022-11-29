@@ -13,6 +13,10 @@ res=0
 out=$(seq 5 | ./plus)
 [ "${out}" =  15.0 Odd number ] || ng "${LINENO}"
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 0d303645d194384407ee3b268afb907601760723
 
 ### STRANGE INPUT ###
 out=$(echo あ | ./plus)
