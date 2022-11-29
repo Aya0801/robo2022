@@ -10,7 +10,7 @@
 # ダウンロード方法
 ターミナルに入力
 ```
-$ git clone git@github.com:Aya0801/robosys2022.git
+$ git clone https://github.com/Aya0801/robosys2022.git
 $ cd robosys2022
 $ chmod +x plus
 
