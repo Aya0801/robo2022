@@ -5,7 +5,7 @@
 * 足した数を奇数か偶数か判定する
 
 # plusコマンドのテスト
-![test](https://github.com/Aya0801/robo2022/actions/workflows/test.yml/badge.svg)
+[![test](https://github.com/Aya0801/robosys2022/actions/workflows/test.yml/badge.svg)]
 
 # ダウンロード方法
 ターミナルに入力
