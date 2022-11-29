@@ -13,7 +13,6 @@
 $ git clone https://github.com/Aya0801/robosys2022.git
 $ cd robosys2022
 $ chmod +x plus
-
 ```
 # 動作例1
 入力
