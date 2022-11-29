@@ -11,9 +11,9 @@ for line in sys.stdin:
     except:
         ans += float(line)
 if ans%2==0:
-    print(str(ans) + " Even numberes")
+    print( str(ans) + " Even numberes" )
 else:
-    print(str(ans) + " Odd numberes")
+    print( str(ans) + " Odd numberes" )
 
 
 
